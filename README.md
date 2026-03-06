@@ -9,8 +9,8 @@ Zodex is a model agnostic AI engineering development environment. Built with Rus
 
 ## Download
 
-- Releases page: `https://github.com/furkanksl/zodex-app/releases`
-- Latest release shortcut: `https://github.com/furkanksl/zodex-app/releases/latest`
+- Releases page: [https://github.com/furkanksl/zodex-app/releases](https://github.com/furkanksl/zodex-app/releases)
+- Latest release shortcut: [https://github.com/furkanksl/zodex-app/releases/latest](https://github.com/furkanksl/zodex-app/releases/latest)
 
 Current public artifacts in this channel are macOS builds (Apple Silicon + Intel).
 
@@ -34,7 +34,7 @@ Current public artifacts in this channel are macOS builds (Apple Silicon + Intel
 
 ## Reporting Issues
 
-- Create issue: `https://github.com/furkanksl/zodex-app/issues/new`
+- Create issue: [https://github.com/furkanksl/zodex-app/issues/new](https://github.com/furkanksl/zodex-app/issues/new)
 - Please search existing issues before opening a new one.
 
 Include these details in every report:
